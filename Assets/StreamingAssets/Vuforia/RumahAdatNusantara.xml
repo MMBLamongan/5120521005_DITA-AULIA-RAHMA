@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Bali" size="0.090000 0.119944" />
+    <ImageTarget name="NTT" size="0.090000 0.118938" />
+    <ImageTarget name="NTB" size="0.090000 0.122028" />
+    <ImageTarget name="JawaTimur" size="0.090000 0.119355" />
+    <ImageTarget name="JawaTengah" size="0.090000 0.120028" />
+    <ImageTarget name="JawaBarat" size="0.090000 0.119944" />
+    <ImageTarget name="DKIJakarta" size="0.090000 0.119944" />
+    <ImageTarget name="DIYogyakarta" size="0.090000 0.120028" />
+    <ImageTarget name="Banten" size="0.090000 0.119944" />
+  </Tracking>
+</QCARConfig>
